@@ -1,6 +1,6 @@
 # Simon Game
 
-![page](page.gif)
+![page](game.gif)
 
 ## Introduction
 A web-based implementation of the Simon Game, where players must remember and repeat a series of button presses.

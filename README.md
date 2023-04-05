@@ -1,18 +1,19 @@
-# Pragati
+# Simon Game
 
 ![page](page.gif)
 
 ## Introduction
-Pragati is a comprehensive educational platform that brings together all the resources that students need to succeed in school and college. With features like learning resources, a to-do list, a chat feature, and a bookmark system, Pragati makes it easier for students to stay organized and motivated.
+A web-based implementation of the Simon Game, where players must remember and repeat a series of button presses.
 
-## Features
-- Learning Resources
-    Pragati offers a wealth of educational resources, including study materials, tutorials, and practice problems. These resources are sourced from reputable sources and are constantly updated to provide the most relevant information.
-    They can also add their own resources, making it easy to personalize their learning experience
-- To-Do List
-    The to-do list makes it easy for students to keep track of their assignments and tasks
-- Chat Feature
-     allows students to connect with their peers and educators. They can ask questions, share resources, and collaborate on projects, all within the platform
-- Bookmark System
-    bookmark system allows students to save their favourite resources for quick and easy access later.
----
+## How to Play
+1.Turn on the game by pressing any button on your keyboard.
+2.The game will randomly flash a button. Now click on this button.
+3.Now game will again flash another button. Click the first button and then this button.
+4.Now, Click the buttons in the same order that you saw and heard them flash and play sounds.
+5.If you correctly repeat the sequence, the game will generate a longer sequence for you to try again.
+6.The game will continue until you make mistake by click other button.
+
+## Technologies Used
+•HTML
+•CSS
+•JavaScript

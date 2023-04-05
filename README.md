@@ -11,7 +11,7 @@ A web-based implementation of the Simon Game, where players must remember and re
 - Now game will again flash another button. Click the first button and then this button.
 - Now, Click the buttons in the same order that you saw and heard them flash and play sounds.
 - If you correctly repeat the sequence, the game will generate a longer sequence for you to try again.
-- The game will continue until you make mistake by click other button.
+- The game will continue until you make a mistake by clicking wrong button.
 
 ## Technologies Used
 - HTML
